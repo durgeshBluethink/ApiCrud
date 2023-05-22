@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.ApiCrud
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, data, data-jpa, http-client, jackson-databind, java, java-application, jdbc-hikari, junit, logback, lombok, maven, micronaut-aop, micronaut-validation, microstream, microstream-rest, netty-server, oracle, problem-json, readme, shade, spring, spring-web, test-resources, yaml]
